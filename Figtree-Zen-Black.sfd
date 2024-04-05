@@ -3,7 +3,7 @@ FontName: Figtree-Zen-Black
 FullName: Figtree Zen Black
 FamilyName: FTZen
 Weight: Black
-Copyright: Copyright 2022 The Figtree Project Authors https:github.comerikdkennedyfigtree\nCopyright 2024 Zen1
+Copyright: Copyright 2022 The Figtree Project Authors https:github.comerikdkennedyfigtree\nCopyright 2024 Hyphrio
 Version: 2.1
 ItalicAngle: 0
 UnderlinePosition: -125
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1617396968
-ModificationTime: 1712298041
+ModificationTime: 1712298405
 PfmFamily: 81
 TTFWeight: 900
 TTFWidth: 5
@@ -200,17 +200,17 @@ ChainSub2: class "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 subta
   BClassNames: "0"
   FClassNames: "0" "1" "2"
 EndFPST
-LangName: 1033 "Copyright 2022 The Figtree Project Authors (https://github.com/erikdkennedy/figtree)" "Figtree Zen Black" "Regular" "" "" "Version 2.001;gftools[0.9.27]" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Figtree Zen" "Black"
+LangName: 1033 "Copyright 2022 The Figtree Project Authors (https://github.com/erikdkennedy/figtree)+AAoA-Copyright 2024 Hyphrio (https://github.com/hyphrio/ftzen)" "Figtree Zen Black" "Regular" "" "" "Version 2.001;gftools[0.9.27]" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "Figtree Zen" "Black"
 GaspTable: 1 65535 15 1
-OtfFeatName: 'ss02' 1033 "Disambiguation"
 OtfFeatName: 'ss01' 1033 "Single-storey a"
+OtfFeatName: 'ss02' 1033 "Disambiguation"
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 27 9
+WinInfo: 54 27 9
 BeginPrivate: 0
 EndPrivate
 Grid
